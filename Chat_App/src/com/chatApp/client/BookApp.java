@@ -11,7 +11,7 @@ public class BookApp {
 		boolean flag=true;
 		BookApp b= new BookApp();
 		// List all books
-		System.err.println("Listing all Books:");
+		System.out.println("Listing all Books:");
 		 b.findAllBooks();
 		 System.out.println();
 		 // search book by keyword
